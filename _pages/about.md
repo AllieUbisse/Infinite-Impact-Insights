@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About Me
 permalink: /about/
 ---
 
@@ -13,9 +14,11 @@ Junior Data Scientists <br/>
 
 Social links:<br/>
 [Kaggle]() | [Github]() | [LinkedIn]()<br/>
-<br/>
+
+
 ---
 <br/>
+
 ### My favorite Miss Manners quotes:
 > **“**Allowing an unimportant mistake to pass without comment is a wonderful social grace. Ideological differences are no excuse for rudeness.**”** *-unknown*
 <br/>
