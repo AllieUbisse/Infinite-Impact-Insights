@@ -5,8 +5,7 @@ title: About Me
 permalink: /about/
 ---
 
-
-<img align="left" width="200" height="200" src="https://github.com/AllieUbisse/Infinite-Impact-insights/blob/master/images/Allie-github-blog-profile.jpeg">
+![left-aligned-image](/images/Allie-github-blog-profile.jpeg){: .align-left}
 
 ### Hello!
 
