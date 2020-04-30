@@ -4,10 +4,19 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+<img align="left" width="200" height="200" src="https://github.com/AllieUbisse/Infinite-Impact-insights/blob/master/images/Allie-github-blog-profile.jpeg">
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+### Hello!
+
+I'm Allie .S Ubisse. <br/>
+Junior Data Scientists <br/>
+
+Social links:
+Twitter
+Github
+LinkedIn
+---
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+### My favorite Miss Manners quotes:
+> **“**Allowing an unimportant mistake to pass without comment is a wonderful social grace. Ideological differences are no excuse for rudeness.**”** *-unknown*
