@@ -3,6 +3,7 @@ layout: page
 permalink: /about/
 ---
 
+
 <img align="left" width="200" height="200" src="https://github.com/AllieUbisse/Infinite-Impact-insights/blob/master/images/Allie-github-blog-profile.jpeg">
 
 ### Hello!
@@ -10,12 +11,17 @@ permalink: /about/
 I'm Allie .S Ubisse. <br/>
 Junior Data Scientists <br/>
 
-Social links:
-Twitter
-Github
-LinkedIn
+Social links:<br/>
+Twitter<br/>
+Github<br/>
+LinkedIn <br/>
+
 ---
-
-
+<br/>
 ### My favorite Miss Manners quotes:
 > **“**Allowing an unimportant mistake to pass without comment is a wonderful social grace. Ideological differences are no excuse for rudeness.**”** *-unknown*
+<br/>
+
+
+
+
