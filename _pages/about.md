@@ -5,8 +5,12 @@ title: About Me
 permalink: /about/
 ---
 
-![left-aligned-image](/images/Allie-github-blog-profile.jpeg){: .align-left}
 
+<div style="text-align:center" width='100' height='100' markdown="1">
+
+![blog-profile](images/Allie-github-blog-profile.jpeg "Caption")
+
+</div>
 ### Hello!
 
 I'm Allie .S Ubisse. <br/>
