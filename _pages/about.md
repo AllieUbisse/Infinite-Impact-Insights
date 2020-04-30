@@ -12,10 +12,8 @@ I'm Allie .S Ubisse. <br/>
 Junior Data Scientists <br/>
 
 Social links:<br/>
-Twitter<br/>
-Github<br/>
-LinkedIn <br/>
-
+[Kaggle]() | [Github]() | [LinkedIn]()<br/>
+<br/>
 ---
 <br/>
 ### My favorite Miss Manners quotes:
